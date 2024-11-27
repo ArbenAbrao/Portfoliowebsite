@@ -1,0 +1,5 @@
+<article id="main-overview1">
+<p><b>Arben Abrao is an aspiring Computer Engineer and a dedicated student at Dr. Yanga's Colleges Inc., currently pursuing a degree in Computer Engineering. With a passion for technology and innovation, Arben actively seeks opportunities to learn and grow in the field, aiming to contribute meaningful solutions to modern challenges. As a student, [Your Name] is driven by a commitment to excellence and a strong desire to make a positive impact on society through engineering and technology.</b></p>
+<p> <b> Arben  is also known for their kind and thoughtful nature, often volunteering time to support peers and community initiatives. They believe in the power of collaboration and community engagement to bring about meaningful change. By blending technical skills with compassion and a proactive mindset, Arben strives to be a well-rounded individual who contributes not only to technological advancements but also to fostering a supportive and innovative environment at Dr. Yanga's Colleges Inc.</b></p> </article>
+
+</article>
